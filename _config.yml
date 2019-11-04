@@ -1,0 +1,20 @@
+# Site settings
+author: Warren Harper II
+title: 
+header-img: img/home-bg.png
+email: warrenharper2@att.net
+copyright_name: Warren Harper II
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  syntax4code
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
