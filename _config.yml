@@ -1,11 +1,11 @@
 # Site settings
-author: Warren Harper II
-title: 
+author: Warren Loy Harper II
+title: Ruby Language Learning
 header-img: img/home-bg.png
 email: warrenharper2@att.net
-copyright_name: Warren Harper II
+copyright_name: Warren Loy Harper II
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Helpful Hints
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  syntax4code
